@@ -177,4 +177,4 @@ public class Main {
             return false;
         }// end catch 
     }// end method boolean isNumber where it will return true if the String is a numeric, and false if not
-} // end FormatTemplate
+}   // end class Main
